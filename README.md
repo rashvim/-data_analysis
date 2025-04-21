@@ -1,1 +1,1 @@
-I have cleaned and pre-processed tha data.
+I have cleaned and pre-processed the data.
